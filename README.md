@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact:#BTC: 1BfqU3BJJXry1XqbHTgG3m19rEUyYE4hRP
+- ⚡ #BTC: 1BfqU3BJJXry1XqbHTgG3m19rEUyYE4hRP
