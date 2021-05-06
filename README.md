@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
+- Check my page 🔭 https://aitor-i.github.io
