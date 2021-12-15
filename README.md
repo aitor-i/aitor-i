@@ -1,4 +1,4 @@
-### Hello there 👋 I´m Aitor
+##  👋 I´m Aitor - Junior React Developer 
 
 <!--
 **aitor-i/aitor-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python and JavaScript
-- Check my page 🔭 https://aitor-i.github.io
+- I use to code on JavaScript, TypeScript and Python 🐍
+- For futher information check my page 🔭 https://aitor-i.github.io
 - 
 ![Visitor Count](https://profile-counter.glitch.me/{aitor-i}/count.svg)
