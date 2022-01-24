@@ -1,21 +1,11 @@
 ##  👋 I´m Aitor - Junior React Developer 
 
-<!--
-**aitor-i/aitor-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[React Img](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zCwu_6DK9X3hczk_iF4MBgHaEM%26pid%3DApi&f=1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use to code on JavaScript, TypeScript and Python 🐍 
+For futher information check my new page www.aitoribarra.com 
 
-- I use to code on JavaScript, TypeScript and Python 🐍
-- For futher information check my page 🔭 https://aitor-i.github.io
-- 
+***** You can also check the old one 😉 : https://aitor-i.github.io/ *****
+
 ![Visitor Count](https://profile-counter.glitch.me/{aitor-i}/count.svg)
