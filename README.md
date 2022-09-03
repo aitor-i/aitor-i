@@ -1,6 +1,6 @@
-##  👋 I´m Aitor - Junior React Developer 
+##  👋 I´m Aitor - Junior Developer  #React #Testin #Node #.NET
 
-![React Img](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zCwu_6DK9X3hczk_iF4MBgHaEM%26pid%3DApi&f=1)
+![React Img](https://www.pngwing.com/en/search?q=react)
 
 
 I use to code on JavaScript, TypeScript and Python 🐍 
