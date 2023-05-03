@@ -2,12 +2,14 @@
 
 ![Testing React .NET](https://user-images.githubusercontent.com/54040099/188267203-58605929-f183-499d-923e-831ac5a9b150.jpg)
 
-I use to code on JavaScript, TypeScript and .NET
-For futher information check my new page www.aitoribarra.com 
+My name is Aitor Ibarra and I am a full-stack developer with a passion for React and TypeScript. I have experience working with .NET testing and am also proficient in using both relational and non-relational databases.
 
-***** You can also check the old one 😉 : https://aitor-i.github.io/ *****
+As a developer, I am always looking to improve my skills and stay up to date with the latest technologies. I enjoy working on challenging projects and tackling complex problems. My attention to detail and strong work ethic ensures that I deliver high-quality work that meets my clients' expectations.
+
+In my GitHub account, you will find a range of projects that showcase my abilities and demonstrate my expertise in various areas of development. From web applications to mobile apps, I have experience working on a variety of projects and have gained valuable experience along the way.
+
+I invite you to visit my website, www.aitoribarra.com, where you can learn more about my background, experience, and skillset. Thank you for taking the time to review my profile, and I look forward to the opportunity to work with you on your next project.
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{aitor-i}/count.svg)
-
-
 
