@@ -13,3 +13,4 @@ I invite you to visit my website, www.aitoribarra.com, where you can learn more 
 
 ![Visitor Count](https://profile-counter.glitch.me/{aitor-i}/count.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitor-i&layout=donut&bg_color=00000000)
