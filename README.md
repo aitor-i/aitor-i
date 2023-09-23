@@ -1,7 +1,5 @@
 ##  👋 I´m Aitor - Fullstack Developer  #React #Testing #Node 
 
-//![Testing React .NET](https://user-images.githubusercontent.com/54040099/188267203-58605929-f183-499d-923e-831ac5a9b150.jpg)
-
 My name is Aitor Ibarra and I am a full-stack developer with a passion for React and TypeScript. I have experience working with .NET testing and am also proficient in using both relational and non-relational databases.
 
 As a developer, I am always looking to improve my skills and stay up to date with the latest technologies. I enjoy working on challenging projects and tackling complex problems. My attention to detail and strong work ethic ensures that I deliver high-quality work that meets my clients' expectations.
